@@ -1,2 +1,1 @@
-# bash-scripting
-bash-scripting
+git add . ; git commit -m "updated the repo " ; git push
